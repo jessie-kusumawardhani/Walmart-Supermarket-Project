@@ -2,7 +2,7 @@
 
 The Walmart supermarket's comprehensive dataset serves as the foundation for evaluating the company's performance, aligning with the analytical objectives of various stakeholders. To provide a holistic assessment, key metrics for both the sales and marketing departments are calculated and presented:
 
-For the Sales Department:
+### For the Sales Department:
 
 1. Total Annual Gross Sales (GMV): This metric will give us an overview of the company's overall sales performance.
 2. Net Profit Ratio (Net Profit Margin to GMV): Calculating the net profit ratio in relation to GMV will help us understand the company's profitability.
@@ -10,7 +10,7 @@ For the Sales Department:
 
 ![](https://github.com/jessie-kusumawardhani/Walmart-Supermarket-Project/blob/main/analysis%201-1.jpg?raw=true)
 
-For the Marketing Department:
+### For the Marketing Department:
 
 1. Average Order Value in One-Time Orders: This metric assists in determining the effectiveness of promotions aimed at increasing the company's revenue.
 2. Average Revenue per User: Understanding the average revenue generated per user is crucial for assessing marketing strategies.
